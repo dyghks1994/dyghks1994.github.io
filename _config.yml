@@ -6,9 +6,9 @@ baseurl:           "/startbootstrap-clean-blog-jekyll"
 url:               "http://dyghks1994.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  YoHwanChoi
+github_username:   dyghks1994
+facebook_username: YoHwanChoi
 
 # Build settings
 markdown:          kramdown
